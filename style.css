@@ -37,7 +37,18 @@ nav.verdecuadro{
 
 div.verde{
     background-color: green;
-    min-width: 99%;
+    min-width: 100%;
     height: 100px;
 }
 
+span.Estudiar{
+    text-decoration: underline;
+}
+
+span.realizada{
+    text-decoration: underline;
+}
+
+footer.fondoamarillo{
+    background-color: yellow;
+}
