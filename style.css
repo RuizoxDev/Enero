@@ -1,0 +1,43 @@
+header{
+    text-align: center;
+}
+
+nav.bandera{
+    display: flex;
+}
+div.groc{
+    background-color: yellow;
+    min-width: 33%;
+    height: 120px;
+}
+
+div.blau{
+    background-color: blue;
+    min-width: 33%;
+}
+
+div.roig{
+    background-color: red;
+    min-width: 33%;
+}
+
+.map-video-container {
+    display: flex;
+  }
+  .map-container {
+    flex: 1; /* Ocupará el 50% del espacio disponible */
+  }
+  .video-container {
+    flex: 1; /* Ocupará el 50% del espacio disponible */
+  }
+
+nav.verdecuadro{
+    display: flex;
+}
+
+div.verde{
+    background-color: green;
+    min-width: 99%;
+    height: 100px;
+}
+
